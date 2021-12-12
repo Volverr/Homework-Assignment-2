@@ -1,0 +1,56 @@
+* {     
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: rgb(250, 241, 229);
+
+}
+
+
+header { 
+    width: 80%;
+    margin: 5% 10%;
+    height: 150px;
+}
+
+
+.navbar {
+    width: 70%;
+    height: 150px;
+    float: right;
+    position: relative;
+    border-bottom: 1px solid rgb(133, 97, 7);
+
+}
+
+#border-limit-left {
+    border-left: 1px solid rgb(133, 97, 7);
+    position: absolute;
+    top: 55%;
+    bottom: 0%;
+}
+
+.links {
+    text-decoration: none;
+    margin-right: 20px;
+    color: rgb(82, 89, 94);
+    margin-left: 30px;
+
+}
+
+.headshot {
+    width: 30%; 
+    float: left;
+}
+
+img {
+    margin-left: 40%;
+}
+
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
